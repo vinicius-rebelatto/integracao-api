@@ -1,0 +1,19 @@
+{
+  "name": "weather-consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^5.1.0",
+    "ioredis": "^5.6.1",
+    "redis": "^4.7.0"
+  }
+}

@@ -1,0 +1,11 @@
+# Dependências do Node
+node_modules/
+npm-debug.log*
+
+# Dependências do Java
+/target/
+/build/
+*.class
+*.jar
+*.war
+*.ear
